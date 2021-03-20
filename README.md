@@ -32,9 +32,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='simpletweet2_walkthrough.gif' title='Video Walkthrough SimpleTweet 2' width=250><br>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 # Project 2 - SimpleTweet part 1
 
