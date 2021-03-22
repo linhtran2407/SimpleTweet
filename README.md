@@ -30,7 +30,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 <img src='simpletweet2_walkthrough.gif' title='Video Walkthrough SimpleTweet 2' width=250><br>
 
 
