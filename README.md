@@ -21,6 +21,7 @@ The following **optional** feature is implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='simpletweet1_walkthrough.gif' title='Video Walkthrough SimpleTweet 1' width=250><br>
 
 ## Open-source libraries used
@@ -45,6 +46,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='simpletweet2_walkthrough.gif' title='Video Walkthrough SimpleTweet 2' width=250><br>
 
 ## License
