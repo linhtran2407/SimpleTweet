@@ -1,6 +1,5 @@
 # SimpleTweet - Part 1
-
-SimpleTweet is an Android app that allows a user to view their Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+SimpleTweet is an Android app that allows a user to log in their Twitter accounts via OAuth login, compose new tweets, and view their Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Language used: Java
 
